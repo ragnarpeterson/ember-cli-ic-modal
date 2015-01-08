@@ -4,8 +4,10 @@ Simple addon to include ic-modal in your Ember project.
 
 ## Installation
 
-* `npm install --save ember-cli-ic-modal`
-* `ember g ember-cli-ic-modal`
+```bash
+# From within your ember-cli project
+ember install:addon ember-cli-ic-modal
+```
 
 ## Usage
 
